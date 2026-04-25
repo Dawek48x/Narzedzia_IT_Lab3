@@ -1,2 +1,2 @@
-# Narz-dzia-w-bran-y-IT-Lab-3
+# Narzedzia_IT_Lab3
 Podstawy poruszania się w GIT
